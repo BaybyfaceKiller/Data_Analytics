@@ -1,2 +1,2 @@
 # Data_analytics
-Projects related to data analytics concepts
+Projects related to data analytics
